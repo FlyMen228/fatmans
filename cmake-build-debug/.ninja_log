@@ -1,0 +1,5 @@
+# ninja log v5
+1	144	6926284648157073	build.ninja	9057aac289574b2a
+0	231	6926284651113630	CMakeFiles/fat_mans.dir/fatmanAlgorithm.cpp.obj	f6c8ffb10d42241b
+3	581	6926284654613118	CMakeFiles/fat_mans.dir/main.cpp.obj	6c5037cecacdbf5b
+582	676	6926284655530427	fat_mans.exe	275087c087f2675
